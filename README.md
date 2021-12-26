@@ -37,6 +37,11 @@ Follow me to be part of my community❤️
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Furkan Türkyılmaz" height="40" width="40" />
     </a>
+ 
+   <a href="https://linkedin.com/in/furkanturkyilmaz" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="Furkan Türkyılmaz" height="40" width="40" />
+    </a>
 
     <a href="mailto:trkyilmazfurkan@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-color-kiranshastry-2.png"
