@@ -33,9 +33,15 @@ Follow me to be part of my community❤️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/furkanturkyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanturkyilmaz" height="30" width="40" /></a>
- 
- <a href="mailto:trkyilmazfurkan@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-color-kiranshastry-2.png" alt="furkanturkyilmaz" height="30" width="40" /></a>
+   <a href="https://linkedin.com/in/furkanturkyilmaz" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="Furkan Türkyılmaz" height="40" width="40" />
+    </a>
+
+    <a href="mailto:trkyilmazfurkan@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-color-kiranshastry-2.png"
+            alt="Furkan Türkyılmaz" height="40" width="40" />
+    </a>
 </p>
 
 
