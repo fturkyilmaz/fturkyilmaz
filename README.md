@@ -53,7 +53,6 @@ Follow me to be part of my community❤️
 <h3 align="left">Github:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fturkyilmaz&show_icons=true&locale=en&layout=compact" alt="fturkyilmaz" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fturkyilmaz&show_icons=true&locale=en" alt="fturkyilmaz" /></p>
 
 
 
