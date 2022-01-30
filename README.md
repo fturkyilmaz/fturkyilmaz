@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on SahaBT 
 
-- 🌱 I’m currently learning **Swift,Solidity**
+- 🌱 I’m currently learning **Swift,Solidity,Web 3.0,Blockchain,NFT,Metaverse**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/](https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/)
 
