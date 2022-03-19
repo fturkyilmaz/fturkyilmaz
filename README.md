@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Furkan Türkyılmaz</h1>
+
 <h3 align="center">Senior Mobile Developer(React Native) & Software Consultant & Instructor & Blockchain Developer</h3>
 
 - 🔭 I’m currently working on SahaBT 
 
 - 🌱 I’m currently learning **Swift,Solidity,Web 3.0,Blockchain,NFT,Metaverse**
 
+- 🔮 I develop dApps project with React Javascript & React Native. 
+
+- 💡 I'm mentor for Javascript, React , React Native,Blockchain , Solidity, Web 3
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/](https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/)
 
-- 💬 Ask me about **React JS,React Native,Javascript,GoLang**
+- 💬 Ask me about **React JS,React Native,Javascript,GoLang,Solidity,Blockchain,Web 3.0**
+
+- 🤭 I love Web 3.0 Technology.
 
 - 📫 How to reach me **trkyilmazfurkan@gmail.com**
 
+- <a href="https://linkedin.com/in/furkanturkyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanturkyilmaz" height="20" width="20" /></a> LinkedIn **https://www.linkedin.com/in/furkanturkyilmaz/**
+
 - 🎯 Portfolio career **https://furkan-turkyilmaz.netlify.app**
+
 
 <h3 align="left">Information:</h3>
 <p>
