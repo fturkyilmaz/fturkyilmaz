@@ -2,7 +2,7 @@
 
 <h3 align="center">Senior Mobile Developer(React Native) & Software Consultant & Instructor & Blockchain Developer</h3>
 
-- 🔭 I’m currently working on SahaBT 
+- 🔭 I’m currently working in my own sole proprietorship.
 
 - 🌱 I’m currently learning **Swift,Solidity,Web 3.0,Blockchain,NFT,Metaverse**
 
