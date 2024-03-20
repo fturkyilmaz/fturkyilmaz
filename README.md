@@ -25,7 +25,7 @@
 
 <h3 align="left">Information:</h3>
 <p>
- Senior Software Developer | C# .Net Core Developer | React (React.js / React Native) Developer | Javascript Developer | Golang Developer | Blockchain Developer
+ Senior Software Developer | C# .Net Core | React (React.js / React Native) | Javascript | Golang | Blockchain
 
 Flexible hardworking punctual, accomplished at team work and good at human relations. I'm working as a Javascript Developer for 5 years. I'm currently developing react.js and react native applications. I have also experience with golang I can learn and use any kind of programming language or framework in so less time. I'm open minded and problem solver. I like to learn new things and improve my skills. 
 
