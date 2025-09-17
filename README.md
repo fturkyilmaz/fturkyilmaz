@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Türkyılmaz</h1>
 
-<h3 align="center">Senior Full-Stack Software Developer | React Native, React, Node.js, Next.js, .NET Core, Go, TypeScript | Software Consultant & Instructor</h3>
+<h3 align="center">Senior Full-Stack Software Developer | React Native, React, Node.js, Next.js, .NET Core, Go, TypeScript , JavaScript | Software Consultant & Instructor</h3>
 
 - 🔭 I’m currently working in my own sole proprietorship.
 
