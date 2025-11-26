@@ -49,15 +49,6 @@ I have served as a **Lead Developer** and **System Architect** for major organiz
 
 ---
 
-## 📈 Github Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fturkyilmaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fturkyilmaz&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 🌱 Current Focus & Learning
 * Expanding expertise in **Web 3.0** technologies (Blockchain, Solidity).
 * Deepening knowledge in **Swift** for native iOS modules.
