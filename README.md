@@ -3,7 +3,7 @@
 ### 👨‍💻 Senior Full-Stack Software Developer & Architect
 **Specializing in .NET Core, React, React Native, and Scalable Architectures.**
 
-I am a seasoned software engineer with **5+ years of experience** in designing and developing high-performance web and mobile applications. My expertise lies in bridging the gap between complex backend logic and seamless frontend user experiences. I have a strong background in building high-traffic systems, e-commerce platforms, and public sector applications (IMM).
+I am a seasoned software engineer with **10+ years of experience** in designing and developing high-performance web and mobile applications. My expertise lies in bridging the gap between complex backend logic and seamless frontend user experiences. I have a strong background in building high-traffic systems, e-commerce platforms, and public sector applications (IMM).
 
 Currently, I operate as a **Software Consultant & Instructor**, helping companies build robust software solutions and mentoring the next generation of developers.
 
