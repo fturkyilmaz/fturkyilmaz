@@ -13,14 +13,18 @@ Currently, I operate as a **Software Consultant & Instructor**, helping companie
 
 I possess a diverse skill set allowing me to handle the entire **Software Development Life Cycle (SDLC)**, from architectural design to deployment.
 
-| **Domain** | **Technologies & Tools** |
+**Domain** | **Technologies & Tools** |
 | :--- | :--- |
-| **Frontend Development** | **React.js**, **Next.js**, TypeScript, JavaScript (ES6+), HTML5, CSS3/SASS, Redux, Context API, Tailwind CSS |
-| **Mobile Development** | **React Native** (iOS & Android), Expo, Mobile UI/UX, Native Modules, App Store & Play Store Deployment |
-| **Backend Development** | **.NET Core (C#)**, **Node.js**, **Go (Golang)**, ASP.NET MVC, RESTful APIs, Microservices Architecture |
-| **Database & Storage** | MSSQL, PostgreSQL, MongoDB, ElasticSearch, Redis |
-| **Blockchain & Web3** | Solidity, Ethereum, dApps, Smart Contracts, NFT, Metaverse |
-| **DevOps & Tools** | Docker, Kubernetes, Git, CI/CD Pipelines, Azure, AWS |
+| **Backend Frameworks** | **.NET 9/10 (C#)**, **ASP.NET Core**, Node.js, Go (Golang) |
+| **Architecture & Patterns** | **Clean Architecture**, **CQRS (MediatR)**, Microservices, Domain-Driven Design (DDD) |
+| **Messaging & Async** | **RabbitMQ (MassTransit)**, Event-Driven Architecture, Background Jobs (**Hangfire**) |
+| **Database & Caching** | **PostgreSQL (EF Core)**, MSSQL, MongoDB, **Redis (Distributed Cache)** |
+| **Logging & Observability** | **ELK Stack (Elasticsearch, Logstash, Kibana)**, **Serilog**, Health Checks, OpenTelemetry |
+| **Frontend Development** | **React.js**, **Next.js**, TypeScript, Redux, Tailwind CSS, HTML5, CSS3/SASS |
+| **Mobile Development** | **React Native**, Expo, Native Modules (iOS/Android) |
+| **Testing & QA** | **xUnit**, **Moq**, **FluentAssertions**, Integration Testing |
+| **Tools & DevOps** | Docker, Kubernetes, Azure DevOps, CI/CD, Swagger/OpenAPI, **AutoMapper**, **FluentValidation** |
+| **Blockchain** | Solidity, Ethereum, Smart Contracts, dApps |
 
 ---
 
